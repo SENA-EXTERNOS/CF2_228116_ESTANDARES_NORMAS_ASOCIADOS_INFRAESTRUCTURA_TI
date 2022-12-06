@@ -17,7 +17,7 @@
       .col-lg-8(data-aos="fade-left")
         .cajon.color-primario.p-4
           p.mb-0 Se desarrollará la capacidad de establecer las conexiones y componentes según las especificaciones técnicas y los marcos de referencia, ejemplificando la parte de infraestructura tecnológica con respecto a la seguridad, con modelos, estándares y normativa que serán implementados para el diseño del centro de datos en función de la infraestructura requerida. Se finalizará con la cuantificación de los riesgos para cumplir con las características del servicio TI, reconociendo las variaciones de ejecución del centro de datos y con base en el desarrollo del proceso. A continuación encontrará un video introductorio donde se amplía la información acerca de las temáticas a desarrollar en el transcurso de todo el componente formativo.
-    .h5.mb-5 A continuación encontrará un video introductorio donde se amplía la información acerca de las temáticas a desarrollar en el transcurso de todo el componente formativo.
+    p.mb-5 A continuación encontrará un video introductorio donde se amplía la información acerca de las temáticas a desarrollar en el transcurso de todo el componente formativo.
 
     figure(data-aos="zoom-in")
       .video
