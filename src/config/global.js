@@ -228,13 +228,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Cloudflare. (s.f.). Cloudflare.com. Recuperado el 8 de octubre de 2022, de',
+        'Cloudflare. (s.f.). <em>Cloudflare.com</em>. Recuperado el 8 de octubre de 2022, de',
       link:
         'https://www.cloudflare.com/learning/network-layer/what-is-routing/',
     },
     {
       referencia:
-        'Función Pública. (marzo de 2020). Funcionpublica.gov.co. Recuperado el 21 de octubre de 2022, de',
+        'Función Pública. (marzo de 2020). <em>Funcionpublica.gov.co</em>. Recuperado el 21 de octubre de 2022, de',
       link:
         'https://www.funcionpublica.gov.co/documents/418537/36701283/politica-de-seguridad-de-la-informacion.pdf.pdf/325019e5-a92f-0b44-3676-2356bd71240c?t=1586355315672',
     },
@@ -246,7 +246,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Educación Nacional. (s.f.). Manual de seguridad informática. Bogotá, Colombia. Recuperado el 29 de octubre de 2022, de',
+        'Ministerio de Educación Nacional. (s.f.). <em>Manual de seguridad informática</em>. Bogotá, Colombia. Recuperado el 29 de octubre de 2022, de',
       link:
         'https://www.mineducacion.gov.co/1759/articles-322548_Manual_de_Seguridad_Informatica_.pdf',
     },
@@ -258,7 +258,7 @@ export default {
     },
     {
       referencia:
-        'Suscriptor. (2022, mayo 13). Indicadores más útiles para un sistema de gestión de seguridad de la información. Software ISO.',
+        'Suscriptor. (2022, mayo 13). <em>Indicadores más útiles para un sistema de gestión de seguridad de la información</em>. Software ISO.',
       link:
         'https://www.isotools.org/2022/05/13/indicadores-mas-utiles-para-un-siUn indicador stema-de-gestion-de-seguridad-de-la-informacion/',
     },

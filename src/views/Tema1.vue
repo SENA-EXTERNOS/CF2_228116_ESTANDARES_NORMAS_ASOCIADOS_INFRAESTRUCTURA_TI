@@ -16,7 +16,7 @@
       .col-lg-9(data-aos="fade-left")
         p Un riesgo en informática es identificar la gran importancia de gestionarlo para que a futuro se eviten inconvenientes o problemas con los usuarios que incluso terminen en procesos legales. 
         p Cuando se realizan estas actividades siempre será más asequible desde la visión de un grupo de colaboradores con conocimiento y expertos; sin embargo, hay ciertas metodologías para prevenir daños en informática que todo responsable del área encargada debe conocer. 
-        p.mb-0 A continuación, se explican:
+        .h5.mb-0 A continuación, se explican:
       
     .row.justify-content-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
@@ -274,7 +274,7 @@
               li 
                 .lista-ol--cuadro__vineta(style="background-color: #4DD0E1")
                   span i
-                p.mb-0 Los colaboradores con activos tecnológicos no deben cambiar o eliminar la configuración del #[em software] de antivirus, antispyware, antimalware, antispam que defina por la Oficina de Tecnología y Sistemas de Información; por consiguiente, únicamente podrán realizar tareas de escaneo de virus en diferentes medios.
+                p.mb-0 Los colaboradores con activos tecnológicos no deben cambiar o eliminar la configuración del #[em software] de antivirus, #[em antispyware, antimalware, antispam] que defina por la Oficina de Tecnología y Sistemas de Información; por consiguiente, únicamente podrán realizar tareas de escaneo de virus en diferentes medios.
           div(titulo="Del internet")
             ol.lista-ol--cuadro.mb-2
               li 
@@ -361,7 +361,7 @@
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left(style="font-size: 2em; color: #FD9927;")
-            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y tomar las medidas respectivas [sic]
+            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y tomar las medidas respectivas [sic].
             
           .bloque-texto-d__autor 
             .h5.mb-0 Función pública, 2020 
