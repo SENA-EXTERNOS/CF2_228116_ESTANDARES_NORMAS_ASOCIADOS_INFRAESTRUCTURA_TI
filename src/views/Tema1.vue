@@ -8,7 +8,7 @@
       h1 Gestión del riesgo informático
     
     p Esta área es una organización, por decirlo así, que tiene como objetivo general fortalecer y construir bases muy sólidas para dar cumplimiento a la misión salvaguardando todo activo informático y, sobre todo, la información. Actualmente las empresas deben realizar procesos de adquisición de datos empleando nuevas tecnologías como apoyo en cada una de sus misiones, por esta razón es importante realizar una buena gestión con el objetivo de protegerla de posibles amenazas.
-    .h5.mb-5 Revisemos a continuación en qué consiste gestionar detalladamente los riesgos en informática y por qué debe existir una buena práctica de ella en todo orden de negocios.
+    .h5.mb-5 Revisemos a continuación, en qué consiste gestionar detalladamente los riesgos en informática y por qué debe existir una buena práctica de ella en todo orden de negocios.
 
     .row.justify-content-between.mb-4
       .col-lg-3.col-6.mb-lg-0.p-4.mb-4(data-aos="fade-right")
@@ -32,15 +32,13 @@
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img02.svg")
 
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Niveles y características
+    h3(data-aos="fade-right") Niveles y características
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4
           p La gestión del riesgo en la seguridad puede ser dinámica, al serlo permite conocer el estado actual y especificar cada interacción en detalle.
-          p.mb-0 La eficacia del tratamiento del riesgo depende de los resultados de su valoración. Con el paso del tiempo se puede notar que el tratamiento sobre el riesgo no se genera de forma inmediata y el usuario puede no estar conforme con la acción; sin embargo, la constancia de proteger y realizar a diario la actividad hará que mejore con el uso si se realizan cambios en los parámetros del contexto; por ejemplo: criterios para la valoración del riesgo, de aceptación o de impacto.
+          p.mb-0 La eficacia del tratamiento del riesgo depende de los resultados de su valoración. Con el paso del tiempo se puede notar que el tratamiento sobre el riesgo no se genera de forma inmediata y el usuario puede no estar conforme con la acción; sin embargo, la constancia de proteger y realizar a diario la actividad hará que mejore con el uso si se realizan cambios en los parámetros del contexto; por ejemplo: criterios para la valoración del riesgo, de aceptación o de impacto. Dentro de la actividad de protección de la información se denota que cuando se realiza la tarea de tratar la seguridad de la información, cada movimiento debe estar avalado por la parte directiva, que es la que tiene acceso directo a toda la información. Esto es especialmente importante en una situación en la que, por costos, la implementación de los controles se omite o se pospone. 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.p-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img03.png")
     
@@ -68,14 +66,14 @@
               p.mb-0 Al momento de salvaguardar la información y cuidar los datos nunca será un método o modelo suficiente para mantenerse de una manera estática debido a las posibles amenazas que existen y la vulnerabilidad del proceso de gestión del riesgo en la seguridad de la información (Suscriptor, 2022).
 
     separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Indicadores y métricas de calidad
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Indicadores y métricas de calidad
     
     .row.justify-content-center.mb-4
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
         p Cuando es implementado un Sistema de Gestión de Seguridad de la Información (SGSI) y se gestionan unos indicadores se pueden medir planes, presupuestos, programas, personas, procesos, incluso prácticas de negocios, productos, servicios, ventas, proveedores y clientes.
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 Un indicador es una medida que permite una estimación o una evaluación de determinados atributos mediante un modelo analítico, y una metodología para satisfacer ciertas necesidades de información.
+          p.mb-0 Un indicador es una medida que permite una estimación o una evaluación de determinados atributos mediante un modelo analítico, y una metodología para satisfacer ciertas necesidades de información. 
         .h5 Los indicadores se pueden clasificar en:
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img05.svg")
@@ -103,7 +101,7 @@
         .col-lg-9.BG02.p-4
           p.mb-0 Se puede concluir que existen indicadores como medidas de riesgo (KRI), medidas de desempeño (#[em Key Performance Indicator] o KPI) y medidas de control (#[em Key Control Indicator] o KCI).
 
-    .h5.mb-5 Descripción sobre cómo deberían ser los indicadores eficaces:
+    p.mb-5 Como se ha descrito, los indicadores son instrumentos de medición que permiten identificar el grado de cumplimiento u objetividad de un proceso específico, por tanto, para llegar a ser más eficaces los indicadores deben ser: 
 
     .row.justify-content-center.mb-5
       .col-xl-5.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -179,15 +177,17 @@
           p.mb-0 Cuando se garantiza una óptima gestión de los indicadores, su cálculo y alimentación, es de gran ayuda un #[em software] de gestión de la seguridad de la información que permita en todo momento mantener un control total de todo lo <span style="background-color: #FFF2CA; padding: 5px">relacionado para evitar posibles</span> catástrofes (Suscriptor, 2022).
 
     separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Manuales y procedimientos
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Manuales y procedimientos
     
-    .row.justify-content-center.mb-4
-      .col-lg-3.col-6.mb-lg-0.p-4.mb-4(data-aos="fade-right")
+    .row.justify-content-center.mb-5
+      .col-lg-3.col-6.mb-lg-0(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img19.svg")
       .col-lg-9(data-aos="fade-left")
-        .h4 Lineamientos del manual de seguridad informática
-        p.mb-0 Los presentes lineamientos se dictan con el objeto gestionar adecuadamente la tecnología, los sistemas informáticos y el ambiente tecnológico del Ministerio de Educación Nacional (MEN).
+        p Los manuales o procedimientos son documentos que contienen pautas, normas o reglas que indican la manera correcta y restrictiva de realizar ciertos procesos; estos manuales, permiten a los usuarios realizar las operaciones correctamente y así alcanzar los mejores resultados.
+
+    .h4 Lineamientos del manual de seguridad informática
+    p.mb-5 Los presentes lineamientos se dictan con el objeto gestionar adecuadamente la tecnología, los sistemas informáticos y el ambiente tecnológico del Ministerio de Educación Nacional (MEN).  
 
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -324,8 +324,8 @@
                   i.fas.fa-file-download
 
     separador
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4 Políticas y normativas
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.3 Políticas y normativas
     
     .row.justify-content-center.mb-5
       .col-lg-9.mb-4
@@ -337,7 +337,7 @@
             p.mb-0 Las políticas de seguridad informática serán aplicadas para las personas que trabajen en entidades públicas o privadas. En el caso del servicio público incluye a todo servidor, pasante y contratista que haga parte del Estado. Para ello se manejan todos los datos inherentes a las organizaciones, incluyendo información de entidades relacionadas con las actividades de recopilación de información, análisis, procesamiento, custodia, recuperación.
       .col-lg-10
         .cajon-b.color-acento-botones.p-3
-          p.mb-0 Es importante recordar la existencia de unas políticas de seguridad sobre la información para analizar, que se actualizan cada año y garantizan a cada una de las personas que hacen parte de la organización en las que existen, unas pertinencias y durabilidad a la hora de hacer cumplir todas las características y componentes institucionales. También se revisan otras situaciones que se presentan, tales como: cambios culturales, organizacionales, de la parte interna o externa; se incluyen también esos cambios normativos u operativos que lleguen a darse en momentos en que surjan afectaciones en la seguridad de la información de la empresa. Dentro de la normativa se implementan lineamientos, controles o procedimientos determinados con cada detalle técnico cada operación.
+          p.mb-0 Es importante recordar la existencia de unas políticas de seguridad sobre la información para analizar, que se actualizan cada año y garantizan a cada una de las personas que hacen parte de la organización en las que existen, unas pertinencias y durabilidad a la hora de hacer cumplir todas las características y componentes institucionales. También se revisan otras situaciones que se presentan, tales como: cambios culturales, organizacionales, de la parte interna o externa; se incluyen también esos cambios normativos u operativos que lleguen a darse en momentos en que surjan afectaciones en la seguridad de la información de la empresa. Dentro de la normativa se implementan lineamientos, controles o procedimientos determinados con cada detalle técnico de cada operación.
 
     .BGR05.p-4.mb-5
       .row.justify-content-around.align-items-center
@@ -361,7 +361,7 @@
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left(style="font-size: 2em; color: #FD9927;")
-            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y tomar las medidas respectivas [sic].
+            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y toma de medidas respectivas [sic]”. (Función pública, 2020).
             
           .bloque-texto-d__autor 
             .h5.mb-0 Función pública, 2020 

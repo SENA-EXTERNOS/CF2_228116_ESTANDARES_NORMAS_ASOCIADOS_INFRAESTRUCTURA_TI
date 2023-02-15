@@ -25,8 +25,10 @@
 
     p Con estos métodos se garantizan mayor efectividad y rapidez al obtener la información y se consolida un apoyo en torno a las organizaciones al velar por sus intereses con un sistema automatizado que permita confiar cuando se deba subir información y se necesite tener retroalimentación efectiva para la utilización de los datos.
 
-    .cajon.color-acento-botones.p-4(data-aos="flip-up")
-      p.mx-5.mb-0 #[b Estimado aprendiz]: ha culminado satisfactoriamente el estudio del componente Estándares y normas asociados a infraestructura TI, lo invitamos a que revise los materiales complementarios y a realizar la actividad didáctica para que afiance sus conocimientos frente a los contenidos vistos.
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .cajon.color-acento-botones.p-4(data-aos="flip-up")
+          p.mb-0 Estimado aprendiz, ha culminado satisfactoriamente el estudio de este componente, lo invitamos a que revise el material complementario y a realizar la actividad didáctica para que afiance sus conocimientos frente a los contenidos vistos.
       
 </template>
 
