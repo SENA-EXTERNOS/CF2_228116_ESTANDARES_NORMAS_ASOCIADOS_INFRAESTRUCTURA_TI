@@ -6,8 +6,9 @@
       .titulo-principal__numero
         span 4
       h1 Gestión de redes de computadores y recursos de tecnológicos
-    
-    .h4 Tipos de respaldo de información
+
+    p  A continuación, encontrará un video donde se podrá profundizar en la temática:    
+    h4.mb-5 Tipos de respaldo de información
 
     figure.mb-5(data-aos="zoom-in")
       .video

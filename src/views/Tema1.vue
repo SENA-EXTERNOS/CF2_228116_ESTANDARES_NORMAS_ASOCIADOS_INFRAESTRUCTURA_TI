@@ -103,7 +103,7 @@
 
     p.mb-5 Como se ha descrito, los indicadores son instrumentos de medición que permiten identificar el grado de cumplimiento u objetividad de un proceso específico, por tanto, para llegar a ser más eficaces los indicadores deben ser: 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.pb-4
       .col-xl-5.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
@@ -152,23 +152,8 @@
             img(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
             p.ms-5.mb-0 8. Los indicadores deben permitir conocer la situación en tiempo real.
-
-    .row.justify-content-center.mb-5
-      .col-lg-10.BGR04.p-4(data-aos="flip-up")
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/tema1/img17.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h4.text-white.mb-2 Indicadores
-                p.text-white.mb-0 En el siguiente documento se explican al detalle los indicadores sobre la gestión del riesgo informático:
-              .col-sm-auto
-                a.boton.color-acento-contenido(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
-    
-    .row.justify-content-center.mb-4
+   
+    .row.justify-content-center.mt-5
       .col-lg-3.col-6.mb-lg-0.p-4.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img18.svg")
       .col-lg-9(data-aos="fade-left")
@@ -328,7 +313,7 @@
       h2 1.3 Políticas y normativas
     
     .row.justify-content-center.mb-5
-      .col-lg-9.mb-4
+      .col-lg-9.mb-5
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img21.jpg')})`}"
@@ -339,25 +324,12 @@
         .cajon-b.color-acento-botones.p-3
           p.mb-0 Es importante recordar la existencia de unas políticas de seguridad sobre la información para analizar, que se actualizan cada año y garantizan a cada una de las personas que hacen parte de la organización en las que existen, unas pertinencias y durabilidad a la hora de hacer cumplir todas las características y componentes institucionales. También se revisan otras situaciones que se presentan, tales como: cambios culturales, organizacionales, de la parte interna o externa; se incluyen también esos cambios normativos u operativos que lleguen a darse en momentos en que surjan afectaciones en la seguridad de la información de la empresa. Dentro de la normativa se implementan lineamientos, controles o procedimientos determinados con cada detalle técnico de cada operación.
 
-    .BGR05.p-4.mb-5
-      .row.justify-content-around.align-items-center
-        .col-lg-3.col-6(data-aos="fade-right")
-          img(src="@/assets/curso/tema1/img22.svg")
-        .col-lg-6(data-aos="fade-left")
-          .titulo-segundo.color-primario(data-aos="fade-right")
-            h4 Marco normativo
-          p A continuación, se referencian las normas y leyes colombianas que se aplican en el ámbito de seguridad de la información; si alguna de las normas descritas llega a perder validez o fuerza obligatoria, sin importar la razón, las demás disposiciones se van a conservar.
-          .row.justify-content-between
-            .col-sm-auto
-              a.boton.color-acento-contenido(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
 
     .h5 Responsabilidad por contravención de la política de seguridad
-    p El incumplimiento de las políticas de seguridad de la información descritas en este documento se trata de acuerdo con la naturaleza del incidente. Los resultados de su tratamiento e investigación se producirán una vez los responsables de los trámites institucionales evalúen la necesidad de adelantar procesos disciplinarios o legales si se presentan inconvenientes que se relacionan con la seguridad de la información y los delitos que se comenten en la internet y están asociados a la normatividad vigente.
+    p.mb-5 El incumplimiento de las políticas de seguridad de la información descritas en este documento se trata de acuerdo con la naturaleza del incidente. Los resultados de su tratamiento e investigación se producirán una vez los responsables de los trámites institucionales evalúen la necesidad de adelantar procesos disciplinarios o legales si se presentan inconvenientes que se relacionan con la seguridad de la información y los delitos que se comenten en la internet y están asociados a la normatividad vigente.
 
     .row.justify-content-center.mb-5
-      .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left(style="font-size: 2em; color: #FD9927;")
