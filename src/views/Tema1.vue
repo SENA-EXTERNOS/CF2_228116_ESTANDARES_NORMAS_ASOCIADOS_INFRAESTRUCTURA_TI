@@ -38,7 +38,7 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4
           p La gestión del riesgo en la seguridad puede ser dinámica, al serlo permite conocer el estado actual y especificar cada interacción en detalle.
-          p.mb-0 La eficacia del tratamiento del riesgo depende de los resultados de su valoración. Con el paso del tiempo se puede notar que el tratamiento sobre el riesgo no se genera de forma inmediata y el usuario puede no estar conforme con la acción; sin embargo, la constancia de proteger y realizar a diario la actividad hará que mejore con el uso si se realizan cambios en los parámetros del contexto; por ejemplo: criterios para la valoración del riesgo, de aceptación o de impacto. Dentro de la actividad de protección de la información se denota que cuando se realiza la tarea de tratar la seguridad de la información, cada movimiento debe estar avalado por la parte directiva, que es la que tiene acceso directo a toda la información. Esto es especialmente importante en una situación en la que, por costos, la implementación de los controles se omite o se pospone. 
+          p.mb-0 La eficacia del tratamiento del riesgo depende de los resultados de su valoración. Con el paso del tiempo se puede notar que el tratamiento sobre el riesgo no se genera de forma inmediata y el usuario puede no estar conforme con la acción; sin embargo, la constancia de proteger y realizar a diario la actividad hará que mejore con el uso si se realizan cambios en los parámetros del contexto; por ejemplo: criterios para la valoración del riesgo, de aceptación o de impacto.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.p-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img03.png")
     
@@ -294,7 +294,7 @@
         img(src="@/assets/curso/tema1/img20.svg")
     
     .row.justify-content-center.mb-5
-      .col-lg-10.BGR04.p-4(data-aos="flip-up")
+      .col-lg-10.BGR04.p-4
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/tema1/img24.svg")
@@ -317,8 +317,8 @@
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img21.jpg')})`}"
-          )(data-aos="fade-right")
-          .bloque-texto-g__texto.p-4(data-aos="fade-left")
+          )
+          .bloque-texto-g__texto.p-4
             p.mb-0 Las políticas de seguridad informática serán aplicadas para las personas que trabajen en entidades públicas o privadas. En el caso del servicio público incluye a todo servidor, pasante y contratista que haga parte del Estado. Para ello se manejan todos los datos inherentes a las organizaciones, incluyendo información de entidades relacionadas con las actividades de recopilación de información, análisis, procesamiento, custodia, recuperación.
       .col-lg-10
         .cajon-b.color-acento-botones.p-3
