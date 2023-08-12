@@ -253,8 +253,7 @@ export default {
     {
       referencia:
         'Suscriptor. (2022, mayo 13). <em>Indicadores más útiles para un sistema de gestión de seguridad de la información</em>. Software ISO.',
-      link:
-        'https://www.isotools.org/2022/05/13/indicadores-mas-utiles-para-un-siUn indicador stema-de-gestion-de-seguridad-de-la-informacion/',
+      link: '',
     },
   ],
   creditos: {
