@@ -329,7 +329,7 @@
     p.mb-5 El incumplimiento de las políticas de seguridad de la información descritas en este documento se trata de acuerdo con la naturaleza del incidente. Los resultados de su tratamiento e investigación se producirán una vez los responsables de los trámites institucionales evalúen la necesidad de adelantar procesos disciplinarios o legales si se presentan inconvenientes que se relacionan con la seguridad de la información y los delitos que se comenten en la internet y están asociados a la normatividad vigente.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-8.order-lg-1.order-2
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left(style="font-size: 2em; color: #FD9927;")
@@ -338,7 +338,7 @@
           .bloque-texto-d__autor 
             .h5.mb-0 Función pública, 2020 
               i.fas.fa-quote-right(style="font-size: 2em; color: #FD9927;")
-      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
         img(src="@/assets/curso/tema1/img23.svg")
 
 </template>
