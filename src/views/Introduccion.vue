@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p Estimado aprendiz: en este componente formativo aprenderá sobre la implementación de tecnologías de la información y las comunicaciones, además identificará cómo ajustar los parámetros y estándares de los dispositivos de la infraestructura TI Se tendrán en cuenta definiciones claves sobre el diseño y la implementación del centro de datos alusivo a la infraestructura, la cual deberá ser creada con las consideraciones de diseño de cada cliente. Aprenderá cómo es el funcionamiento del centro de datos, características, normas y estándares con los que podrá seleccionar las conexiones y componentes según su criterio y marcos de referencia ya conocidos; de esta forma, realizará un análisis de medición de riesgos para cumplir con las características del servicio TI.
+    p Estimado aprendiz: en este componente formativo aprenderá sobre la implementación de tecnologías de la información y las comunicaciones, además identificará cómo ajustar los parámetros y estándares de los dispositivos de la infraestructura TI. Se tendrán en cuenta definiciones claves sobre el diseño y la implementación del centro de datos alusivo a la infraestructura, la cual deberá ser creada con las consideraciones de diseño de cada cliente. Aprenderá cómo es el funcionamiento del centro de datos, características, normas y estándares con los que podrá seleccionar las conexiones y componentes según su criterio y marcos de referencia ya conocidos; de esta forma, realizará un análisis de medición de riesgos para cumplir con las características del servicio TI.
 
     .row.justify-content-between.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")

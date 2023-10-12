@@ -136,7 +136,7 @@ export default {
       tema: 'Introducción a las redes de datos ',
       referencia: '(S/a-a). Com.ar. Recuperado el22 de octubre de 2022, de',
       tipo: 'Manual',
-      link: 'https://docer.com.ar/doc/s0s0n50',
+      link: 'https://docer.ar/doc/nv00x8',
     },
     {
       tema: 'Conceptos de redes de computadoras',
@@ -152,13 +152,7 @@ export default {
       link:
         'https://economicas.unsa.edu.ar/sigeco/archivos/semi_material/U1-DT-IntroduccionalaInformatica.pdf',
     },
-    {
-      tema: 'Documento - versión actualizada del modelo de gestión it4+',
-      referencia: '(S/a-d). Gov.co. Recuperado el 18 de agosto de 2022, de',
-      tipo: 'Manual',
-      link:
-        'https://www.mintic.gov.co/arquitecturati/630/propertyvalues-8170_documento_pdf.pdf',
-    },
+
     {
       tema: 'Data Center una mirada por dentro',
       referencia:
@@ -177,7 +171,7 @@ export default {
     {
       termino: 'Activo de Información',
       significado:
-        'recurso o elemento que contiene información con valor para la organización debido a su utilización en algún proceso, o que tiene relación directa o indirecta con las funciones de la entidad: software, hardware, personas (roles), físicos (instalaciones, áreas de almacenamiento de expedientes, centros de procesamiento de datos), intangibles (imagen y reputación).',
+        'recurso o elemento que contiene información con valor para la organización debido a su utilización en algún proceso, o que tiene relación directa o indirecta con las funciones de la entidad: <em>software, hardware</em>, personas (roles), físicos (instalaciones, áreas de almacenamiento de expedientes, centros de procesamiento de datos), intangibles (imagen y reputación).',
     },
     {
       termino: 'Amenaza',

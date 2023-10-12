@@ -109,49 +109,49 @@
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img09.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 1. Solo se debe medir lo que es importante.
+            p.ms-5.mb-0 A. Solo se debe medir lo que es importante.
       .col-xl-5.col-md-6.col-10.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 2. No crear demasiados, pues podría ser contraproducente.
+            p.ms-5.mb-0 B. No crear demasiados, pues podría ser contraproducente.
       .col-xl-5.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 3. Tener en cuenta que no hay un indicador protagonista, todos son importantes.
+            p.ms-5.mb-0 C. Tener en cuenta que no hay un indicador protagonista, todos son importantes.
       .col-xl-5.col-md-6.col-10.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 4. Los indicadores deben propiciar un entorno de mejora continua y estar vinculados a los objetivos del SGSI.
+            p.ms-5.mb-0 D. Los indicadores deben propiciar un entorno de mejora continua y estar vinculados a los objetivos del SGSI.
       .col-xl-5.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img13.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 5. No olvidar interpretarlos.
+            p.ms-5.mb-0 E. No olvidar interpretarlos.
       .col-xl-5.col-md-6.col-10.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img14.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 6. Los indicadores deben englobar procesos importantes o críticos. También tienen que ser fáciles de mantener y utilizar.
+            p.ms-5.mb-0 F. Los indicadores deben englobar procesos importantes o críticos. También tienen que ser fáciles de mantener y utilizar.
       .col-xl-5.col-md-6.col-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 7. Deben ser compatibles con el resto de los indicadores.
+            p.ms-5.mb-0 G. Deben ser compatibles con el resto de los indicadores.
       .col-xl-5.col-md-6.col-10(data-aos="fade-left")
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR03A.p-4
-            p.ms-5.mb-0 8. Los indicadores deben permitir conocer la situación en tiempo real.
+            p.ms-5.mb-0 H. Los indicadores deben permitir conocer la situación en tiempo real.
    
     .row.justify-content-center.mt-5
       .col-lg-3.col-6.mb-lg-0.p-4.mb-4(data-aos="fade-right")
@@ -333,7 +333,7 @@
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left(style="font-size: 2em; color: #FD9927;")
-            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y toma de medidas respectivas [sic]”. (Función pública, 2020).
+            p Los servidores públicos del Departamento Administrativo de Función Pública que generen algún incidente de seguridad de la información por realizar acciones que contravengan o incumplan alguna de las disposiciones descritas en el presente documento, serán reportados por correo electrónico al Jefe inmediato, al Jefe de la Oficina Asesora de Planeación, al Coordinador del Grupo de Gestión Humana y Jefe de la Oficina de Control Interno, para la revisión del caso y la adopción de las medidas respectivas de acuerdo con las políticas aplicables en la entidad. Respecto a los contratistas y pasantes, estos serán reportados al supervisor del contrato y al director(a), subdirector(a) y jefe de Área, para la revisión del caso y toma de medidas respectivas [sic]”.
             
           .bloque-texto-d__autor 
             .h5.mb-0 Función pública, 2020 

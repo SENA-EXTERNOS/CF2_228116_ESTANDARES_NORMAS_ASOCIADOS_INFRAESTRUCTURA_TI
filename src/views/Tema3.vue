@@ -8,7 +8,7 @@
       h1 Cadena de custodia
     
     .BGM06.p-md-5.p-4
-      .h4 Conceptos, usos y las tendencias del ecosistema tecnológicos
+      .h4 Conceptos, usos y las tendencias del ecosistema tecnológico
       p Se asocia a un sistema de control y registro de todo el material utilizado como evidencia de alguna actividad que se considere delictiva. Por ejemplo, la ubicación: en caso de hacer algo incorrecto, existe la cadena de custodia que delata todas las pruebas que confirman la acción mal realizada. Se conocen cinco pasos principales que definen la cadena de custodia.
 
       .row.justify-content-center.mb-5
