@@ -172,7 +172,7 @@
         p Los manuales o procedimientos son documentos que contienen pautas, normas o reglas que indican la manera correcta y restrictiva de realizar ciertos procesos; estos manuales, permiten a los usuarios realizar las operaciones correctamente y así alcanzar los mejores resultados.
 
     .h4 Lineamientos del manual de seguridad informática
-    p.mb-5 Los presentes lineamientos se dictan con el objeto gestionar adecuadamente la tecnología, los sistemas informáticos y el ambiente tecnológico del Ministerio de Educación Nacional (MEN).  
+    p.mb-5 Los  lineamientos se dictan con el objeto gestionar adecuadamente la tecnología, los sistemas informáticos y el ambiente tecnológico. A continuación analizaremos elementos que contempla el manual de seguridad informática del Ministerio de Educación Nacional (MEN). 
 
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -302,7 +302,7 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.text-white.mb-2 Información descriptiva del manual de seguridad
-                p.text-white.mb-0 Para continuar conociendo la información descriptiva del manual de seguridad se debe revisar el siguiente enlace
+                p.text-white.mb-0 Para continuar conociendo la información descriptiva del manual de seguridad informática del Ministerio de Educación, se debe revisar el siguiente enlace
               .col-sm-auto
                 a.boton.color-acento-contenido(href="https://www.mineducacion.gov.co/1759/articles-322548_Manual_de_Seguridad_Informatica_.pdf" target="_blank")
                   span Descargar

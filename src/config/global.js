@@ -133,33 +133,44 @@ export default {
   },
   complementario: [
     {
-      tema: 'Introducción a las redes de datos ',
-      referencia: '(S/a-a). Com.ar. Recuperado el22 de octubre de 2022, de',
+      tema: 'Modelo modelo de gestión it4+ ',
+      referencia: '(S/a-d). Gov.co. Recuperado el 18 de agosto de 2022.',
       tipo: 'Manual',
-      link: 'https://docer.ar/doc/nv00x8',
+      link:
+        'https://www.politicacriminal.gov.co/Portals/0/documento/ModeloIT4ok.pdf?ver=2017-06-28-141714-930',
     },
     {
-      tema: 'Conceptos de redes de computadoras',
-      referencia: '(S/a-b). Com.ar. Recuperado el 22 de octubre de 2022, de',
-      tipo: 'Artículo',
-      link: 'https://docer.com.ar/doc/s0s0n1c',
+      tema: 'Redes de computadoras conceptos básicos y clasificación',
+      referencia:
+        'En El Ojo De La Tecnología (2021).  <em>Redes de computadoras conceptos básicos y clasificación</em>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hhWTtXEaB70',
+    },
+    {
+      tema: 'Concepto de redes de computadores',
+      referencia:
+        'Caffa, A. <em>Conceptos de redes de computadoras [en línea] Montevideo </em>: Udelar.CSEP, 2005',
+      tipo: 'Documento',
+      link:
+        'https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/9583/1/conceptosredes.pdf',
     },
     {
       tema:
         'Introducción a la informática <em>hardware</em> y <em>software</em>',
-      referencia: '(S/a-c). Edu.ar. Recuperado el 18de agosto de 2022, de',
+      referencia: '(S/a-c). Edu.ar. Recuperado el 18 de agosto de 2022.',
       tipo: 'Manual',
       link:
         'https://economicas.unsa.edu.ar/sigeco/archivos/semi_material/U1-DT-IntroduccionalaInformatica.pdf',
     },
 
     {
-      tema: 'Data Center una mirada por dentro',
+      tema:
+        'Elementos sugeridos en la implementación del modelo de gestión IT4+',
       referencia:
-        '(S/a-e). Researchgate.net. Recuperado el 18 de agosto de 2022, de',
+        'Correa Murillo, J. H., & Salazar Giraldo, D. (2019). Elementos sugeridos en la implementación del modelo de gestión IT4+ con énfasis en servicio de conectividad.',
       tipo: 'Manual',
       link:
-        'https://www.researchgate.net/publication/282611136_DATACENTER_-_UNA_MIRADA_POR_DENTRO',
+        'https://repositorio.utp.edu.co/server/api/core/bitstreams/addfb71d-324c-470c-974b-18c48d85da74/content',
     },
   ],
   glosario: [
