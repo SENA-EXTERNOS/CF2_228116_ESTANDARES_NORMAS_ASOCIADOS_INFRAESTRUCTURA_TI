@@ -133,7 +133,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Modelo modelo de gestión it4+ ',
+      tema: 'Modelo de gestión it4+ ',
       referencia: '(S/a-d). Gov.co. Recuperado el 18 de agosto de 2022.',
       tipo: 'Manual',
       link:
